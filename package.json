@@ -1,0 +1,24 @@
+{
+  "name": "web-real-communication",
+  "version": "0.0.0",
+  "private": true,
+  "keywords": [
+    "web",
+    "express",
+    "socket",
+    "real"
+  ],
+  "description": "Using nodes to solve real-time web communication, usually upstream data sources can enable TCP and UDP",
+  "scripts": {},
+  "dependencies": {
+    "cookie-parser": "~1.4.4",
+    "debug": "~2.6.9",
+    "dgram": "^1.0.1",
+    "express": "~4.16.1",
+    "http-errors": "~1.6.3",
+    "jade": "~1.11.0",
+    "morgan": "~1.9.1",
+    "socket.io": "^4.7.5",
+    "ws": "^8.16.0"
+  }
+}
